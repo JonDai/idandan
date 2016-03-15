@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="idandan:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="idandan-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="idandan:war exploded" />
+    </root>
+  </artifact>
+</component>
